@@ -1,2 +1,2 @@
-# Html_Css_projects
+# Html_Css_project
 This is simple html and css based project
