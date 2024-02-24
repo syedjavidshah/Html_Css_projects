@@ -19,11 +19,11 @@
     
 }
 #home p{
-    font-size: 13px;khuug
+    font-size: 13px;
 }
  /* services section  */
 #services {
-    flex-direction: columns;
+    flex-direction: columns
 }
  #services .box{
      padding: 14px;
